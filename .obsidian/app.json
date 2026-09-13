@@ -1,0 +1,10 @@
+{
+  "spellcheck": true,
+  "vimMode": true,
+  "propertiesInDocument": "visible",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1 Inbox",
+  "attachmentFolderPath": "1 Inbox",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local"
+}

@@ -1,0 +1,6 @@
+# This repo tracks Obsidian configuration only, never notes.
+# It lives at the vault root rather than inside .obsidian/ so that Obsidian
+# Sync, which syncs the contents of .obsidian/, never sees the git directory.
+/*
+!/.gitignore
+!/.obsidian/
